@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td>5 de mayo</td>
+    <td>18 de mayo</td>
     <td>
       <b>Kick off</b>
       <p>
@@ -20,9 +20,9 @@
     </td>
     <td>
       <ul>
-         <li> <a href="https://github.com/Laboratoria/SCL020-job-application/blob/main/README.md"> Readme del proyecto</a></li>
-         <li> <a href="https://www.loom.com/share/eff20dfbb64a488abb6181acd95a8dbf"> Pildora: Cómo funciona un proceso de selección</a></li>
-        <li>Q&A Readme del proyecto (Slido)</li>
+         <li> <a href="https://github.com/Laboratoria/SCL020-job-application/blob/main/README.md"> Readme del proyecto.</a></li>
+         <li> <a href="https://www.loom.com/share/eff20dfbb64a488abb6181acd95a8dbf"> Píldora: Cómo funciona un proceso de selección.</a></li>
+         <li> <a href="https://app.sli.do/event/pCJRXTYrRPW7CGGVnRz9xC/live/questions"> Q&A Readme del proyecto (Slido).</a></li>
       </ul>
     </td>
     <td>NA</td>
@@ -46,9 +46,9 @@
     </td>
     <td>
       <ul>
-        <li>Taller: Historia de vida y habilidades transferibles.</li>
-        <li>Píldora: About me y pitch.</li>
-        <li>Espacio grupal para compartir “about me” y dar y recibir feedback.</li>
+        <li> <a href="https://docs.google.com/presentation/d/1HzaNvB4koarDftWzCkBQD-phedSFVMKHOWopWfiiuI8/edit#slide=id.g108f9f34ebd_0_0"> Taller: Historia de vida y habilidades transferibles.</a></li>
+        <li> <a href="https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/edit#slide=id.g10f517c8353_0_0"> Píldora: About me y pitch.</a></li>
+        <li> <a href="https://docs.google.com/presentation/d/1gm04Q1IACx6dJJ6mn4GZLdE43G7tAa2LtVLWzDF1H5E/edit#slide=id.geb0fdc64a4_2_38"> Espacio grupal para compartir “about me” y dar y recibir feedback.</a></li>
       </ul>
     </td>
     <td>NA</td>
@@ -68,11 +68,11 @@
     </td>
     <td>
       <ul>
-        <li>Pildora: CV en la industria tech.</li>
-        <li>Pildora: Funcionamiento de Linkedin</li>
-        <li>Píldora: Recomendaciones para la foto.</li>
-        <li>Ayudantías con el equipo (opcionales).</li>
-        <li>Q&A externxs / placement.</li>
+        <li> <a href="https://www.loom.com/share/b682c1f7b7964641a5fe1b8acfcf4b8e"> Píldora: CV en la industria tech.</a></li>
+        <li> <a href="https://www.loom.com/share/8c43a7129e654962bb53ea1a74088a9b"> Píldora: Funcionamiento de Linkedin.</a></li>
+        <li> <a href="https://www.loom.com/share/cb019555280444ada9dacab2810fefdb"> Píldora: Recomendaciones para la foto.</a></li>
+        <li> Ayudantías con el equipo (opcionales).</li>
+        <li> <a href="https://app.sli.do/event/jMxnu6cQ69xDop4o8McSFV/live/questions"> Q&A externxs / placement.</a></li>
       </ul>
     </td>
     <td>Primera versión del CV + LinkedIn</td>
@@ -88,8 +88,8 @@
     </td>
     <td>
       <ul>
-        <li>Píldora: Tips y buenas prácticas entrevista RRHH.</li>
-        <li>Píldora: Negociación salario y condiciones laborales.</li>
+        <li> <a href="https://www.youtube.com/watch?v=HjOUpKgbdIM"> Píldora: Tips y buenas prácticas entrevista RRHH.</a></li>
+        <li> <a href="https://www.loom.com/share/082a12d5a30a4f9bb1afd951ccba0b39"> Píldora: Negociación salario y condiciones laborales.</a></li>
       </ul>
     </td>
     <td>NA</td>
@@ -106,7 +106,7 @@
     </td>
     <td>
       <ul>
-        <li>Q&A Readme del proyecto (Slido)</li>
+        <li> <a href="https://app.sli.do/event/pCJRXTYrRPW7CGGVnRz9xC/live/questions"> Q&A Readme del proyecto (Slido)</a></li>
       </ul>
     </td>
     <td>NA</td>
@@ -124,14 +124,14 @@
         Este espacio será programado por el equipo de Laboratoria y se dividirá
         en 2 momentos:
         <ul>
-          <li>Dinámica para que conozcas a tu mentora/or.</li>
-          <li>Revisión y feedback de CV.</li>
+          <li>Dinámica para que conozcas a tu mentora/or.</a></li>
+          <li>Revisión y feedback de CV.</a></li>
         </ul>
       </p>
     </td>
     <td rowspan="2">
       <ul>
-        <li>Guía sesiones de mentoría (apartado en el read me)</li>
+        <li> <a href="https://github.com/Laboratoria/SCL020-job-application/blob/main/Mentoring.md"> Guía sesiones de mentoría (apartado en el read me)</a></li>
       </ul>
     </td>
     <td>Segunda versión del CV con recomendaciones incorporadas.</td>
@@ -162,10 +162,8 @@
     </td>
     <td>
       <ul>
-        <li>Guía sesiones de mentoría (apartado en el read me).</li>
-        <li>
-          Form autoevaluación estudiante y evaluación a la persona que te
-          entrevistó.
+        <li> <a href="https://github.com/Laboratoria/SCL020-job-application/blob/main/Mentoring.md"> Guía sesiones de mentoría (apartado en el read me).</a></li>
+        <li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdoaV1g0EaBrzaIhniK9oMAVS-bjcOwEkeRUHaEIjcgI9im1g/viewform"> Form autoevaluación estudiante y evaluación a la persona que te entrevistó.</a></li>
         </li>
       </ul>
     </td>
@@ -175,7 +173,7 @@
           Feedback de entrevistadora/or sobre performance en
           entrevista + CV + Linkedin.
         </li>
-        <li>Autoevaluación de performance en entrevista + CV + Linkedin.</li>
+        <li>Autoevaluación de performance en entrevista + CV + Linkedin.</a></li>
         <li>Versión de CV + perfil de LinkedIn</li>
       </ul>
     </td>
@@ -207,7 +205,7 @@
     </td>
     <td>
       <ul>
-        <li>Guía de sesiones de preparación ((apartado en el read me).</li>
+        <li>Guía de sesiones de preparación (apartado en el read me).</li>
       </ul>
     </td>
     <td>NA</td>
@@ -223,7 +221,7 @@
     </td>
     <td>
       <ul>
-        <li>Píldora: Perfil de Github para la búsqueda de empleo.</li>
+        <li>Píldora: Perfil de Github para la búsqueda de empleo.</a></li>
         <li>Ayudantías para ver perfil de Github (opcionales).</li>
       </ul>
     </td>
@@ -265,8 +263,8 @@
     </td>
     <td>
       <ul>
-        <li>Guía sesiones de mentoría (apartado en el read me).</li>
-        <li>Form autoevaluación estudiante.</li>
+        <li>Guía sesiones de mentoría (apartado en el read me).</a></li>
+        <li>Form autoevaluación estudiante.</a></li>
         <li>Form evaluación entrevistadorx por parte de la estudiante.</li>
       </ul>
     </td>

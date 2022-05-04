@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>5 de mayo</td>
     <td>
       <b>Kick off</b>
       <p>
@@ -20,8 +20,8 @@
     </td>
     <td>
       <ul>
-        <li>Readme del proyecto</li>
-        <li>Pildora: Cómo funciona un proceso de selección</li>
+         <li> <a href="https://github.com/Laboratoria/SCL020-job-application/blob/main/README.md"> Readme del proyecto</a></li>
+         <li> <a href="https://www.loom.com/share/eff20dfbb64a488abb6181acd95a8dbf"> Pildora: Cómo funciona un proceso de selección</a></li>
         <li>Q&A Readme del proyecto (Slido)</li>
       </ul>
     </td>

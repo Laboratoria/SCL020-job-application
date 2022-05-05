@@ -46,6 +46,7 @@
     </td>
     <td>
       <ul>
+        <li> <a href="https://docs.google.com/presentation/d/1DVkE0yc1u730u0S_mLrlTpzoZR_iQlnubma4hlgswKI/edit#slide=id.g10daaaee466_0_390"> Pre-trabajo de Taller: Historia de vida y habilidades transferibles.</a></li>
         <li> <a href="https://docs.google.com/presentation/d/1HzaNvB4koarDftWzCkBQD-phedSFVMKHOWopWfiiuI8/edit#slide=id.g108f9f34ebd_0_0"> Taller: Historia de vida y habilidades transferibles.</a></li>
         <li> <a href="https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/edit#slide=id.g10f517c8353_0_0"> Píldora: About me y pitch.</a></li>
         <li> <a href="https://docs.google.com/presentation/d/1gm04Q1IACx6dJJ6mn4GZLdE43G7tAa2LtVLWzDF1H5E/edit#slide=id.geb0fdc64a4_2_38"> Espacio grupal para compartir “about me” y dar y recibir feedback.</a></li>

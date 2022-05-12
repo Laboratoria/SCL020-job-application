@@ -33,7 +33,7 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>25 de mayo y 1 de junio</td>
     <td>
       <b>Autoconocimiento</b>
       <p>

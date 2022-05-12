@@ -107,7 +107,7 @@
     </td>
     <td>
       <ul>
-        <li> <a href="https://app.sli.do/event/pCJRXTYrRPW7CGGVnRz9xC/live/questions"> Q&A Readme del proyecto (Slido)</a></li>
+        <li> <a href="https://app.sli.do/event/wpJYV15sgZ2bvKq6oe5uS9/live/questions"> Q&A mentorías RH (Slido)</a></li>
       </ul>
     </td>
     <td>NA</td>

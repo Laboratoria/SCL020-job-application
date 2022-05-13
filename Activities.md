@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td>18 de mayo</td>
+    <td>Miércoles 18 de mayo</td>
     <td>
       <b>Kick off</b>
       <p>
@@ -33,8 +33,8 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><li>Taller: 25 de mayo</li>
-      <li>Working Session: 1 de junio</li></td>
+    <td><li>Taller: miércoles 25 de mayo</li>
+      <li>Working Session: miércoles 1 de junio</li></td>
     <td>
       <b>Autoconocimiento</b>
       <p>
@@ -99,7 +99,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td>Semana del 6 de junio</td>
+    <td>Semana del 6 al 10 de junio</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>

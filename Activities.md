@@ -33,7 +33,8 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td>25 de mayo y 1 de junio</td>
+    <td><li>Taller: 25 de mayo</li>
+      <li>Working Session: 1 de junio</li></td>
     <td>
       <b>Autoconocimiento</b>
       <p>
@@ -55,7 +56,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 23 de mayo al 10 de junio</td>
     <td>
       <b>Preparación de CV y Linkedin</b>
       <p>
@@ -72,14 +73,16 @@
         <li> <a href="https://www.loom.com/share/b682c1f7b7964641a5fe1b8acfcf4b8e"> Píldora: CV en la industria tech.</a></li>
         <li> <a href="https://www.loom.com/share/8c43a7129e654962bb53ea1a74088a9b"> Píldora: Funcionamiento de Linkedin.</a></li>
         <li> <a href="https://www.loom.com/share/cb019555280444ada9dacab2810fefdb"> Píldora: Recomendaciones para la foto.</a></li>
-        <li> Ayudantías con el equipo (opcionales).</li>
+        <li> Ayudantías (OH) con el equipo (opcionales).</li>
         <li> <a href="https://app.sli.do/event/jMxnu6cQ69xDop4o8McSFV/live/questions"> Q&A externxs / placement.</a></li>
       </ul>
     </td>
-    <td>Primera versión del CV + LinkedIn</td>
+    <td><li>Primera versión del CV + LinkedIn: lunes 6 de junio</li>
+      <li>Segunda versión del CV + LinkedIn: lunes 4 de julio</li></td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td><li>1ra simulación: miércoles 8 de junio</li>
+      <li>2da simulación: miércoles 15 de junio</li></td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -96,7 +99,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana del 6 de junio</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
@@ -118,7 +121,7 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana del 13 al 17 de junio</td>
     <td>
       <b>Meet and greet + sesión revisión y feedback CV</b>
       <p>
@@ -138,7 +141,7 @@
     <td>Segunda versión del CV con recomendaciones incorporadas.</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana del 20 al 24 de junio</td>
     <td>
       <b>Sesión revisión y feedback LinkedIn</b>
       <p>
@@ -152,7 +155,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 4 al 15 de julio</td>
     <td>
       <b>Simulación de entrevista RH</b>
       <p>
@@ -180,7 +183,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Miércoles 20 de julio</td>
     <td>
       <b>Retrospectiva grupal de simulación de entrevista RH</b>
       <p>
@@ -193,7 +196,8 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td><!-- aqui la fecha --></td>
+  <td><li>1ra sesión: martes 28 de junio </i>
+  <li>2da sesión: martes 12 de julio</li></td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
@@ -212,7 +216,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 27 de junio al 8 de julio</td>
     <td>
       <b>Preparación perfil Github</b>
       <p>
@@ -223,10 +227,10 @@
     <td>
       <ul>
         <li>Píldora: Perfil de Github para la búsqueda de empleo.</a></li>
-        <li>Ayudantías para ver perfil de Github (opcionales).</li>
+        <li>Ayudantías (OH) para ver perfil de Github (opcionales).</li>
       </ul>
     </td>
-    <td>Primera versión del perfil de GitHub</td>
+    <td>Primera versión del perfil de GitHub: lunes 18 de julio</td>
   </tr>
   <tr>
     <td rowspan="3">
@@ -234,7 +238,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana del 11 al 15 de julio</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
@@ -250,7 +254,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 25 de julio al 5 de agosto</td>
     <td>
       <b>Simulación de entrevista técnica </b>
       <p>
@@ -285,7 +289,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Martes 9 de agosto</td>
     <td>
       <b>Retrospectiva grupal de simulación de entrevista Tech</b>
       <p>
@@ -299,7 +303,7 @@
   </tr>
   <tr>
     <td><b>Project Feedback</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 8 al 19 de agosto</td>
     <td>
       <b>Project Feedback:</b>
       <p>

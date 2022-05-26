@@ -78,7 +78,7 @@
       </ul>
     </td>
     <td><li>Primera versión del CV + LinkedIn: lunes 6 de junio</li>
-      <li>Segunda versión del CV + LinkedIn: lunes 4 de julio</li></td>
+      <li>Segunda versión del CV + LinkedIn: lunes 27 de junio</li></td>
   </tr>
   <tr>
     <td><li>1ra simulación: miércoles 8 de junio</li>

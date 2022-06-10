@@ -99,7 +99,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td>Semana del 6 al 10 de junio</td>
+    <td>Lunes 13 de junio</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
@@ -110,7 +110,7 @@
     </td>
     <td>
       <ul>
-        <li> <a href="https://app.sli.do/event/wpJYV15sgZ2bvKq6oe5uS9/live/questions"> Q&A mentorías RH (Slido)</a></li>
+        <li> <a href="https://app.sli.do/event/213bpCZuvCWCNXXQbNuRhr"> Q&A mentorías RH (Slido)</a></li>
       </ul>
     </td>
     <td>NA</td>

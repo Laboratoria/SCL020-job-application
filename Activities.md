@@ -210,7 +210,7 @@
     </td>
     <td>
       <ul>
-        <li>Guía de sesiones de preparación (apartado en el read me).</li>
+        <li> <a href="https://github.com/Laboratoria/SCL020-job-application/blob/main/Mentoring.md"> Guía de sesiones de preparación (apartado en el read me).</li>
       </ul>
     </td>
     <td>NA</td>
@@ -226,7 +226,7 @@
     </td>
     <td>
       <ul>
-        <li>Píldora: Perfil de Github para la búsqueda de empleo.</a></li>
+        <li> <a href="https://www.youtube.com/watch?v=vQ_EBqgUR0c&ab_channel=Luucamay"> Píldora: Perfil de Github para la búsqueda de empleo.</a></li>
         <li>Ayudantías (OH) para ver perfil de Github (opcionales).</li>
       </ul>
     </td>
@@ -248,7 +248,7 @@
     </td>
     <td>
       <ul>
-        <li>Pildora: Buenas prácticas entrevistas tech</li>
+        <li> <a href="https://www.youtube.com/watch?v=0NMil00HKEU&ab_channel=cdmx-Labo"> Píldora: Buenas prácticas entrevistas tech</li>
       </ul>
     </td>
     <td>NA</td>
@@ -268,8 +268,8 @@
     </td>
     <td>
       <ul>
-        <li>Guía sesiones de mentoría (apartado en el read me).</a></li>
-        <li>Form autoevaluación estudiante.</a></li>
+        <li> <a href="https://github.com/Laboratoria/SCL020-job-application/blob/main/Mentoring.md"> Guía sesiones de mentoría (apartado en el read me).</a></li>
+        <li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgyiVhL7eC_4eQgpnNQEOddPwJ98xPZVd6tymsI7qezCWSYQ/viewform"> Form autoevaluación estudiante.</a></li>
         <li>Form evaluación entrevistadorx por parte de la estudiante.</li>
       </ul>
     </td>

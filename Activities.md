@@ -269,8 +269,7 @@
     <td>
       <ul>
         <li> <a href="https://github.com/Laboratoria/SCL020-job-application/blob/main/Mentoring.md"> Guía sesiones de mentoría (apartado en el read me).</a></li>
-        <li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgyiVhL7eC_4eQgpnNQEOddPwJ98xPZVd6tymsI7qezCWSYQ/viewform"> Form autoevaluación estudiante.</a></li>
-        <li>Form evaluación entrevistadorx por parte de la estudiante.</li>
+        <li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgyiVhL7eC_4eQgpnNQEOddPwJ98xPZVd6tymsI7qezCWSYQ/viewform"> Form autoevaluación estudiante y evaluación a la persona que te entrevistó.</a></li>
       </ul>
     </td>
     <td>

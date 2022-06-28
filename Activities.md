@@ -238,7 +238,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td>Semana del 11 al 15 de julio</td>
+    <td>Lunes 11 de julio</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>

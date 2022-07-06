@@ -258,11 +258,11 @@
     <td>
       <b>Simulación de entrevista técnica </b>
       <p>
-        Está simulación la realizará una personas de la industria que
+        Esta simulación la realizarán personas de la industria que
         tienen experiencia en equipos de desarrollo de tecnología y que han
         participado de algunos procesos de selección a
-        través de entrevistas técnicas. Luego de la simulación recibirás
-        feedback de la entrevista y de tu Github Profile
+        través de entrevistas técnicas. Luego de la simulación, recibirás
+        feedback de la entrevista y de tu Github Profile,
         y también harás una autoevaluación.
       </p>
     </td>
